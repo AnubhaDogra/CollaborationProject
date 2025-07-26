@@ -1,2 +1,2 @@
 # CollaborationProject
-Collaoration
+Collaboration
